@@ -12,7 +12,7 @@ The repository includes:
 - **Volumetric_analyses.ipynb**  
   Assesses hippocampal anterior–posterior and subfield volume–behavior relationships.
 
-- **SurfaceBased_analysis.ipynb**  
+- **SurfaceBased_analyses.ipynb**  
   Examines vertex-wise hippocampal gyrification and thickness in relation to behavioral performance.
 
 - **Subsample_checks.ipynb**  
