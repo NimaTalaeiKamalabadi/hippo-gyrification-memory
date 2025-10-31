@@ -1,7 +1,7 @@
 Code for Analyses in “Association Between Anterior Hippocampal Gyrification and Episodic Memory Performance in Neurotypical Young Adults”
 
 **Talaei, N., DeKraker, J., Karat, B. G., Khan, A. R., & Köhler, S. (2025)**  
-*Association Between Anterior Hippocampal Gyrification and Episodic Memory Performance in Neurotypical Young Adults (Submitted to the Journal of Neuroscience)*  
+*Association Between Anterior Hippocampal Gyrification and Episodic Memory Performance in Neurotypical Young Adults*  
 ---
 
 ## Contents
